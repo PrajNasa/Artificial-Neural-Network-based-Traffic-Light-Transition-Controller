@@ -5,7 +5,7 @@ An Artificial Neural Network based Traffic Light Transition Controller for inter
 See TensorFlow implementation [here.](https://github.com/raymelon/TrafficLightNeuralNetwork---TensorFlow)
 
 
-## Overview [![forthebadge](http://forthebadge.com/images/badges/built-with-science.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/designed-in-ms-paint.svg)](http://forthebadge.com)
+## Overview 
  
 Given the previous and current light pair, the controller must predict the next light pair.
 
