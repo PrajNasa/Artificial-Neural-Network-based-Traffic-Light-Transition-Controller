@@ -4,13 +4,6 @@ An Artificial Neural Network based Traffic Light Transition Controller for inter
 
 See TensorFlow implementation [here.](https://github.com/raymelon/TrafficLightNeuralNetwork---TensorFlow)
 
-| | |
-| - | - |
-| **[AppVeyor](https://ci.appveyor.com)** | [![Build status](https://ci.appveyor.com/api/projects/status/0ix0yy9mhjm4m5cc?svg=true)](https://ci.appveyor.com/project/raymelon/trafficlightneuralnetwork) |
-| **[License](https://opensource.org/licenses)** | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | |
-| **[For the Badge](https://github.com/BraveUX/for-the-badge)** | [![forthebadge](http://forthebadge.com/images/badges/made-with-c-sharp.svg)](http://forthebadge.com) |
-
-![ANN Architecture](https://github.com/raymelon/TrafficLightNeuralNetwork/blob/master/misc/demo.gif)
 
 ## Overview [![forthebadge](http://forthebadge.com/images/badges/built-with-science.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/designed-in-ms-paint.svg)](http://forthebadge.com)
  
@@ -112,39 +105,6 @@ Using 50 training sets (or repetitions of these in a file) in 1000 epochs is eno
  | H1 to O1 | H2 to O2 | Bias to O2 | none | none | none |
 
 
- - Training data can be viewed at
-  [`input.csv`](https://github.com/raymelon/TrafficLightNeuralNetwork/tree/master/data/input.csv) and
-  [`target.csv`](https://github.com/raymelon/TrafficLightNeuralNetwork/tree/master/data/target.csv)
 
 
 
-### Timeline
-- March 19-22, 2017 (Initial Development)
-- March 23, 2017 onwards (Maintenance)
-- March 26, 2017 (GitHub debut)
-
-### Authors [![forthebadge](http://forthebadge.com/images/badges/built-by-hipsters.svg)](http://forthebadge.com)
-| |
-| - |
-| **Developers** |
-| [Raymel Francisco](http://stackoverflow.com/users/4895040/raymelfrancisco) |
-| [Emilson Olaño](https://github.com/EmilsonME) |
-| **Contributors** |
-|  [John Paul Magturo](https://github.com/gorejuice) |
-|  [Denzel Rañada](https://github.com/BabyShinta) |
-|  Kaiser Sternberg |
-|  Christian Bisnar |
-
-### License
-
-This project is licensed under [MIT License](https://github.com/raymelon/TrafficLightNeuralNetwork/blob/master/LICENSE.md).
-
-> MIT License
-
-> Copyright (c) 2017 Raymel Francisco, Emilson Olaño, John Paul Magturo, Denzel Rañada, Kaiser Sternberg, and Christian Bisnar
-
-> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
