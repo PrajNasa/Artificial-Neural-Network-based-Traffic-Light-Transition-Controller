@@ -1,0 +1,4 @@
+build: off
+build_script:
+  - Makefile.cmd
+  
